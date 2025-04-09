@@ -1,4 +1,4 @@
-# 🧠 THE IQ
+# 🧠 THE IQ, by Charles NICOLAI & Thomas ROLLAND
 
 A quiz game made with Python + PyQt5. Choose your mode, the difficulty & test your knowledge across 7 different categories.
 **THE REAL CHALLENGE ?** Survive Sudden Death mode if you dare 🔥
